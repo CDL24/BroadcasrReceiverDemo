@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BroadcastRecieverDemo</string>
+    <string name="dynamic_broadcast_receiver_demo">Dynamic Broadcast Receiver Demo</string>
+    <string name="static_broadcast_receiver">Static Broadcast Receiver</string>
+</resources>
